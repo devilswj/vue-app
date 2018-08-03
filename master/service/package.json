@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "async": "^2.6.1",
+    "bcrypt": "^2.0.1",
+    "bluebird": "^3.5.1",
+    "bson": "^3.0.0",
+    "glob": "^7.1.2",
+    "kareem": "^2.2.1",
+    "koa": "^2.5.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa2-cors": "^2.0.5",
+    "mongodb-core": "^3.0.9",
+    "mongoose": "^5.1.6",
+    "mongoose-legacy-pluralize": "^1.0.2",
+    "regexp-clone": "^0.0.1",
+    "require_optional": "^1.0.1",
+    "resolve-from": "^4.0.0",
+    "sliced": "^1.0.1"
+  }
+}
